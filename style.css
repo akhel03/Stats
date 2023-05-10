@@ -1,0 +1,46 @@
+h1{
+  color: #ffffff;
+  font-size: 45px;  
+}
+
+body{
+  background-color: #90e0ef;
+}
+
+img{
+  border: solid 10px;
+  color:#70d6ff;
+}
+
+img:hover {
+  border:groove 10px;
+}
+
+h1:hover {
+  color:#fac05e;
+  font-size: 45px;
+}
+
+nav {
+  list-style-type: none;
+  position: absolute;
+  background-color: #70d6ff;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+
+li{
+  display: inline;
+  padding: 20px;
+  float: left;
+}
+
+li:hover {
+  background-color: #fac05e;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
